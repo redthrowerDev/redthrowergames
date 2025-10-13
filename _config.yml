@@ -1,6 +1,7 @@
 title: Redthrower Games
 description: Support Website by Redthrower Games
+theme: jekyll-theme-minimal
 
-# Load our custom stylesheet
+# Allow custom files like CSS
 include:
   - style.css
