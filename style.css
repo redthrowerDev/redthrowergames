@@ -1,0 +1,31 @@
+/* === Redthrower Games Custom Theme === */
+
+body {
+  background-color: #000;
+  color: #ff0000;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+}
+
+a {
+  color: #ff3333;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff6666;
+}
+
+h1, h2, h3 {
+  color: #ff0000;
+}
+
+header, nav, footer {
+  display: none; /* Removes any menus or headers from Minimal theme */
+}
+
+.container, .wrapper {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
