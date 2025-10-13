@@ -4,4 +4,4 @@ theme: jekyll-theme-minimal
 
 # Load our custom stylesheet
 include:
-  - assets/style.css
+  - style.css
