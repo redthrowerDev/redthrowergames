@@ -1,1 +1,6 @@
-Welcome to Mascot Mayhem!
+[Update 1.2.0]
+- Added new map
+- Fixed bugs
+
+[Event]
+Double XP weekend!
