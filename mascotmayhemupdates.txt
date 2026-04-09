@@ -1,6 +1,10 @@
-TITLE: Update 1.2
-IMAGE: https://redthrowerdev.github.io/redthrowergames/CoverArt.png
+TITLE: Alpha Testing 2
+IMAGE: https://redthrowerdev.github.io/redthrowergames/juf.jpg
 CONTENT:
-- New map added
-- Fixed bugs
-- Improved performance
+- Camp Controller Map Added
+- New RedGuard Launcher
+- Chat System
+- Destructable Walls
+- Lorepieces Added
+- New, clean updated UI
+- Gameplay loop changes.
