@@ -1,5 +1,5 @@
 TITLE: Update 1.2
-IMAGE: https://yourdomain.com/update.png
+IMAGE: https://redthrowerdev.github.io/redthrowergames/CoverArt.png
 CONTENT:
 - New map added
 - Fixed bugs
