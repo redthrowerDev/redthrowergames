@@ -1,6 +1,6 @@
-[Update 1.2.0]
-- Added new map
+TITLE: Update 1.2
+IMAGE: https://yourdomain.com/update.png
+CONTENT:
+- New map added
 - Fixed bugs
-
-[Event]
-Double XP weekend!
+- Improved performance
