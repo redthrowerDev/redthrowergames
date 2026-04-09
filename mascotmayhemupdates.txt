@@ -1,10 +1,4 @@
-TITLE: Alpha Testing 2
-IMAGE: https://redthrowerdev.github.io/redthrowergames/juf.jpg
+TITLE: test
+IMAGE: https://images-ext-1.discordapp.net/external/uRLjunWfURbn1GuuFoo0NaC5wncETFcYwx_s_jdQAYQ/https/media.tenor.com/a99FIUgfZAMAAAPo/net-epstein.mp4
 CONTENT:
-- Camp Controller Map Added
-- New RedGuard Launcher
-- Chat System
-- Destructable Walls
-- Lorepieces Added
-- New, clean updated UI
-- Gameplay loop changes.
+- hi tnp games
