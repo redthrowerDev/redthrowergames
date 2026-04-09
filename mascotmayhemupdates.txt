@@ -1,4 +1,4 @@
 TITLE: test
-IMAGE: https://media1.tenor.com/m/AYZtikBEjd8AAAAC/israel-netanyahu.gif
+IMAGE: 
 CONTENT:
 - hi tnp games
