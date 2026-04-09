@@ -1,4 +1,4 @@
 TITLE: Season 2 Chapter 1
-IMAGE: https://redthrowerdev.github.io/redthrowergames/juf.jpg
+IMAGE: https://lh3.googleusercontent.com/sitesv/APaQ0SS14GYEBYGsSjFP3SITBSe4zTavSoX5n8Y_CeeWxEieblOIR-Rt7J1USSNEjJKcmj2jl1E4hwqkl9FJZoM_2AmZbeXehRqy0I5EbThytdIKWjfnZEFLBQ0k8RgKoMjt-LtuugTW5V0yFiGj0sFupAVbiHIOInK9SB68ZW5H4k0JBEsBQ4RedIdsFfehmrDLmM0omCpNbAZB_Gx6ssr2VaDQY8fLp-nyekrvdH4=w1280
 CONTENT:
 - New content!
