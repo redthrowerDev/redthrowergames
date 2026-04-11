@@ -1,4 +1,4 @@
-TITLE: test
-IMAGE: 
+TITLE: Alpha Testing
+IMAGE: https://redthrowerdev.github.io/redthrowergames/juf.jpg
 CONTENT:
-- hi tnp games
+This new update brings a plethora of awesome changes.
