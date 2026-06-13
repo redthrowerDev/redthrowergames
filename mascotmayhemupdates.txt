@@ -1,10 +1,4 @@
-TITLE: THE BEST UPDATE EVER??
-IMAGE: https://media1.tenor.com/m/N6kxCh04hKUAAAAC/first-time-hearing-mozard.gif
+TITLE: Closed Testing
+IMAGE: https://media.discordapp.net/attachments/1410062092215521441/1490978971641446400/evilmwhehee.jpg?ex=6a2db19f&is=6a2c601f&hm=b49c8ac7d21eff50fa54cd6d8f0ed8c269021e446ed449f55ef77d8957c57975&=&format=webp&width=1522&height=856
 CONTENT:
-- Added Jesus
-- Removed Herobrine
-- Killed Pawlixy
-- Rizzed up Lannden
-- Gooned to TNP
-- Gunnned Down Monkey029
-- Slimed out Combo
+Closed Playtesting Period
